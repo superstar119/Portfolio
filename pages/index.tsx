@@ -16,7 +16,6 @@ export default function Home() {
       <Head>
         <title>Adona's Portfolio</title>
       </Head>
-
       <Header/>
 
       <section id="hero" className='snap-start'>
